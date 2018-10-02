@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  var arr = [];
+  arr = [];
   array.each do |x|
    arr << x*x;
    
